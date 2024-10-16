@@ -1,8 +1,5 @@
-
-
 <!--
 **appsecwarriors/appsecwarriors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +7,7 @@
 </head>
 <body>
   <h1 align="left">Hey 👋 Welcome To AppSecWarrior</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="appsecwarrior" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="appsecwarriors" /> </p>
 
   <p align="left">We are the Non-Profit organization from India.</p>
 
@@ -83,7 +80,7 @@
     </ul>
   </div>
 <div>
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&theme=radical&username=appsecwarrior" alt=" Medium Posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&theme=radical&username=appsecwarriors" alt=" Medium Posts"  />
 </div>
 </body>
 </html>
