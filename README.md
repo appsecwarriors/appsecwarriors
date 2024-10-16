@@ -14,9 +14,9 @@
 
   <p align="left"><b>Empowering Future Cybersecurity Professionals 
 
-  At AppSecWarrior, we specialize in providing comprehensive support for aspiring penetration testers. Our free services include interview preparation, career guidance, and resume assistance tailored specifically for roles in cybersecurity.<br>
+  At AppSecWarrior, we specialize in providing comprehensive support to aspiring penetration testers. Our free services include interview preparation, career guidance, and resume assistance tailored specifically to roles in cybersecurity.<br>
 
-  In addition to our free offerings, we also provide premium services such as website development, security testing, threat modeling, and Vulnerability Assessment and Penetration Testing (VAPT). Our mission is to equip individuals and organizations with the knowledge and tools necessary to thrive in the ever-evolving field of cybersecurity.<br>
+In addition to our free offerings, we also provide premium services, such as website development, security testing, threat modeling, and Vulnerability Assessment and Penetration Testing (VAPT). Our mission is to equip individuals and organizations with the knowledge and tools necessary to succeed in the ever-evolving field of cybersecurity..<br>
 
   Join us in shaping the future of cybersecurity!.</p>
 
