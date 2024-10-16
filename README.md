@@ -8,7 +8,7 @@
   <h1 align="left">Hey 👋 Welcome To AppSecWarrior</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="appsecwarriors" /> </p>
 
-  <p align="left">We are the Non-Profit organization from India.</p>
+  <p align="left"><b>We are the Non-Profit organization from India.</p>
 
   <h2 align="left">What we Do </h2>
 
@@ -77,7 +77,7 @@
     </ul>
   </div>
 <div>
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&theme=radical&username=appsecwarriors" alt=" Medium Posts"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png/latest?limit=6&theme=radical&username=appsecwarriors" alt=" Medium Latest Posts"  />
 </div>
 </body>
 </html>
