@@ -77,10 +77,9 @@
     </ul>
   </div>
 <div>
-  <a href="https://medium.com/@appsecwarrior">
-  
-  <span>Medium</span>
+ <a href="https://medium.com/@appsecwarrior">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+</a>
 </a>
 </div>
 </body>
