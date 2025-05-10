@@ -37,22 +37,6 @@ AppSecWarrior is a non-profit organization based in India dedicated to:
 ✓ **Comprehensive Reports** - Actionable findings with remediation  
 ✓ **Community Focus** - 50% profits fund free training programs  
 
-## 📬 Get In Touch
-🔗 [Website](https://appsecwarrior.org) | 📧 info@appsecwarrior.org  
-
-
-## 🌟 Featured Content
-```markdown
-- [X] Beginner's Guide to Penetration Testing
-- [X] Common Web App Vulnerabilities Explained
-- [ ] CTF Walkthrough Series (Coming Soon)
-```
-
----
-
-<p align="center">
-  "Security is not a product, but a process." — Bruce Schneier
-</p>
 
 # 🛡️ AppSecWarrior | Cybersecurity & Development Solutions
 
@@ -91,10 +75,14 @@ AppSecWarrior is a non-profit organization based in India specializing in:
 ```python
 # Secure Development Solutions
 1. UX/UI Design - User-centered secure interfaces
-2. Website Development - Jamstack, React, Next.js
+2. Website Development - PHP, React, Next.js
 3. SEO Optimization - Technical + content strategy
-4. Web Application Firewalls - Custom rule sets
-5. API Development - REST/GraphQL with OWASP safeguards
+```
+## 🌟 Featured Content
+```markdown
+- [X] Beginner's Guide to Penetration Testing
+- [X] Common Web App Vulnerabilities Explained
+- [ ] CTF Walkthrough Series (Coming Soon)
 ```
 
 ## 🔍 Why Partner With Us?
@@ -105,23 +93,11 @@ AppSecWarrior is a non-profit organization based in India specializing in:
 | 📈 Actionable risk reporting | 📈 Performance optimization |
 | 💡 Continuous learning programs | 💡 SEO-optimized architectures |
 
+
 ## 📬 Get In Touch
-🔗 [Portfolio](https://appsecwarrior.org/portfolio) | 📧 dev@appsecwarrior.org  
-🗓️ [Schedule Call](https://calendly.com/appsecwarrior-consult)
-
-## 🛠️ Tech Stack
-```mermaid
-graph LR
-    A[Frontend] --> B(React/Next.js)
-    A --> C(TailwindCSS)
-    D[Backend] --> E(Node.js/Python)
-    D --> F(PostgreSQL/MongoDB)
-    G[Security] --> H(Burp Suite)
-    G --> I(OWASP ZAP/Nmap)
-```
-
+🔗 [Website](https://appsecwarrior.org) | 📧 info@appsecwarrior.org  
 ---
 
 <p align="center">
-  "We don't just build systems secure, we build secure systems."
+  "Security is not a product, but a process."
 </p>
