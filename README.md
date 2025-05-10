@@ -56,7 +56,7 @@ In addition to our free offerings, we also provide premium services, such as web
       </li>
       <li>
         <i class="fas fa-handshake"></i>
-        <span>APT Testing</span>
+        <span>API Testing</span>
       </li>
       <li>
         <i class="fas fa-video"></i>
