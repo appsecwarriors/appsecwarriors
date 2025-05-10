@@ -1,86 +1,70 @@
-<!--
--->
 <!DOCTYPE html>
 <html lang="en">
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppSecWarrior - Cybersecurity Solutions</title>
 </head>
 <body>
-  <h1 align="left">Hey 👋 Welcome To AppSecWarrior</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="appsecwarriors" /> </p>
-
-  <p align="left"><b>We are the Non-Profit organization based in India.</p>
-
-  <h2 align="left">What we Do </h2>
-
-  <p align="left"><b>Empowering Future Cybersecurity Professionals 
-
-  At AppSecWarrior, we specialize in providing comprehensive support to aspiring penetration testers. Our free services include interview preparation, career guidance, and resume assistance tailored specifically to roles in cybersecurity.<br>
-
-In addition to our free offerings, we also provide premium services, such as website development, security testing, threat modeling, and Vulnerability Assessment and Penetration Testing (VAPT). Our mission is to equip individuals and organizations with the knowledge and tools necessary to succeed in the ever-evolving field of cybersecurity..<br>
-
-  Join us in shaping the future of cybersecurity!.</p>
-
-  <div class="services">
-    <h1>Free Services</h1>
-    <ul>
-      <li>
-        <i class="fas fa-file-alt"></i>
-        <span>Resume Guidance</span>
-      </li>
-      <li>
-        <i class="fas fa-briefcase"></i>
-        <span>Interview Preparation</span>
-      </li>
-      <li>
-        <i class="fas fa-handshake"></i>
-        <span>Job Referral</span>
-      </li>
-      <li>
-        <i class="fas fa-video"></i>
-        <span>Mock Interview</span>
-      </li>
-    </ul>
+  <div align="center">
+    <h1>🔒 Welcome to AppSecWarrior</h1>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+    </p>
   </div>
-  
-   <h1 align="left"> Paid Services</h1>
 
+  <h2>🌟 About Us</h2>
+  <p>AppSecWarrior is a non-profit organization based in India dedicated to empowering cybersecurity professionals and organizations with cutting-edge security solutions.</p>
+
+  <h2>🚀 Our Mission</h2>
+  <p>We specialize in bridging the gap between aspiring cybersecurity professionals and industry requirements through comprehensive training, mentorship, and professional services.</p>
+
+  <h2>🆓 Free Services</h2>
+  <p>We're committed to supporting the cybersecurity community with these complimentary offerings:</p>
   <div class="services">
     <ul>
-      <li>
-        <i class="fas fa-file-alt"></i>
-        <span>Web Application Penetration Testing</span>
-      </li>
-      <li>
-        <i class="fas fa-briefcase"></i>
-        <span>Secure Code Review</span>
-      </li>
-      <li>
-        <i class="fas fa-handshake"></i>
-        <span>API Testing</span>
-      </li>
-      <li>
-        <i class="fas fa-video"></i>
-        <span>Android App Penetration Testing</span>
-      </li>
-      <li>
-        <i class="fas fa-video"></i>
-        <span>Treat Modeling</span>
-      </li>
-      <li>
-        <i class="fas fa-video"></i>
-        <span>UX Design</span>
-      </li>
-      <li>
-        <i class="fas fa-video"></i>
-        <span>Web Development</span>
-      </li>
+      <li><strong>Resume Guidance:</strong> Tailored for cybersecurity roles</li>
+      <li><strong>Interview Preparation:</strong> Technical and behavioral coaching</li>
+      <li><strong>Job Referrals:</strong> Connecting talent with opportunities</li>
+      <li><strong>Mock Interviews:</strong> Real-world scenario practice</li>
+      <li><strong>Career Counseling:</strong> Personalized roadmap development</li>
     </ul>
   </div>
-<div>
- <a href="https://medium.com/@appsecwarrior">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
-</a>
-</a>
-</div>
+
+  <h2>💼 Professional Services</h2>
+  <p>Our premium cybersecurity solutions for organizations:</p>
+  <div class="services">
+    <ul>
+      <li><strong>Web Application Penetration Testing</strong></li>
+      <li><strong>Secure Code Review</strong></li>
+      <li><strong>API Security Testing</strong></li>
+      <li><strong>Mobile Application Security Assessment</strong></li>
+      <li><strong>Threat Modeling</strong></li>
+      <li><strong>Vulnerability Assessment & Penetration Testing (VAPT)</strong></li>
+      <li><strong>Security Awareness Training</strong></li>
+    </ul>
+  </div>
+
+  <h2>🛠️ Additional Services</h2>
+  <div class="services">
+    <ul>
+      <li><strong>Secure Web Development</strong></li>
+      <li><strong>UX/UI Design with Security Focus</strong></li>
+      <li><strong>DevSecOps Implementation</strong></li>
+    </ul>
+  </div>
+
+  <h2>📚 Resources</h2>
+  <p>Follow our cybersecurity insights:</p>
+  <div align="center">
+    <a href="https://medium.com/@appsecwarrior" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+    <!-- Add more social badges as needed -->
+  </div>
+
+  <h2>💌 Contact Us</h2>
+  <p>Reach out for collaborations or inquiries:</p>
+  <p>Email: <a href="mailto:contact@appsecwarrior.org">contact@appsecwarrior.org</a></p>
 </body>
 </html>
