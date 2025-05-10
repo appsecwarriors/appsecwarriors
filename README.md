@@ -8,7 +8,7 @@
   <h1 align="left">Hey 👋 Welcome To AppSecWarrior</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=appsecwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="appsecwarriors" /> </p>
 
-  <p align="left"><b>We are the Non-Profit organization from India.</p>
+  <p align="left"><b>We are the Non-Profit organization based in India.</p>
 
   <h2 align="left">What we Do </h2>
 
